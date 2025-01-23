@@ -39,7 +39,7 @@ The Dashboard Consolidates Data From Multiple HR Systems Into A Single, Unified 
 
 The 'Analyzing Employee Trends' Project Provides A Comprehensive And Insightful Analysis Of An Organization's Workforce By Utilizing Tableau’s Powerful Data Visualization Capabilities. By Integrating Diverse HR Data Sources Into A Unified Dashboard, The Project Offers Valuable Perspectives On Employee Distribution, Demographics, Satisfaction, And Turnover Trends. 
 
-The Visualizations Allow HR Leaders And Decision-makers To Track Key Metrics Such As Headcount, Engagement Levels, And Attrition Rates, Empowering Them To Make Informed, Data-driven Decisions That Can Enhance Employee Retention, Improve Satisfaction, And Align HR Strategies With Business Objectives. Furthermore, The Dashboard Facilitates Ongoing Monitoring Of Key HR Performance Indicators, Enabling Proactive Management Of Workforce Dynamics.
+The Visualizations Allow HR Leaders And Decision-Makers To Track Key Metrics Such As Headcount, Engagement Levels, And Attrition Rates, Empowering Them To Make Informed, Data-Driven Decisions That Can Enhance Employee Retention, Improve Satisfaction, And Align HR Strategies With Business Objectives. Furthermore, The Dashboard Facilitates Ongoing Monitoring Of Key HR Performance Indicators, Enabling Proactive Management Of Workforce Dynamics.
 
 Overall, This Project Serves As A Strategic Tool For HR Professionals, Providing Actionable Insights To Optimize Employee Engagement, Enhance Organizational Effectiveness, And Drive Informed Decision-making Around HR Initiatives.
 
