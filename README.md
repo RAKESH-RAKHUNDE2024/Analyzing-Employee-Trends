@@ -4,15 +4,15 @@ This Project Leverages Tableau’s Interactive Dashboard Capabilities To Analyze
 
 The Dashboard Integrates Data From Various HR Systems, Enabling Users To Explore Employee Distribution By Department, Role, And Demographics Such As Age, Gender, And Education Level. It Highlights Key Trends In Employee Satisfaction And Engagement, Alongside Attrition And Turnover Patterns, Which Are Critical For Shaping Effective HR Strategies And Retention Plans.
 
-# Tableau Projects ![https://github.com/RAKESH-RAKHUNDE2024/Analyzing-Employee-Trends/blob/main/tablaue.png)
+# Tableau Projects ![icons8-tableau-software-48](https://github.com/RAKESH-RAKHUNDE2024/Analyzing-Employee-Trends/blob/main/tablaue.png)
 
 This Repository Contains Tableau Dashboard, Visualization, And Data Analysis Projects I Have Created.
 
 ## Analyzing Employee Trends:-
 
-[https://github.com/RAKESH-RAKHUNDE2024/Analyzing-Employee-Trends/blob/main/Analyzing%20Employee%20Trends.twbx](Analyzing Employee Trends Dashboard.png)
+[Analyzing Employee Trends.twbx](Analyzing Employee Trends Dashboard.png)
 
- ## Project Objectives:-
+## Project Objectives:-
 
 The Primary Objective Of This Interactive Tableau Dashboard Is To Visualize And Analyze HR Data, Providing Valuable Insights Into The Organization’s Employee Base. The Key Goals Of The Project Are To:
 
@@ -33,7 +33,7 @@ The Dashboard Consolidates Data From Multiple HR Systems Into A Single, Unified 
 - Analysis Of Compensation And Performance Metrics To Assess Alignment With Organizational Goals.
 - Key HR Performance Indicators (KPIs) To Monitor The Effectiveness Of HR Strategies And Initiatives.
 
-[Tableau Dashboard](https://github.com/RAKESH-RAKHUNDE2024/Analyzing-Employee-Trends/blob/main/Tableau%20Dashboard.png)
+![Tableau Dashboard](https://github.com/RAKESH-RAKHUNDE2024/Analyzing-Employee-Trends/blob/main/Tableau%20Dashboard.png)
 
 
 # Conclusion:-
