@@ -4,14 +4,13 @@ This Project Leverages Tableau’s Interactive Dashboard Capabilities To Analyze
 
 The Dashboard Integrates Data From Various HR Systems, Enabling Users To Explore Employee Distribution By Department, Role, And Demographics Such As Age, Gender, And Education Level. It Highlights Key Trends In Employee Satisfaction And Engagement, Alongside Attrition And Turnover Patterns, Which Are Critical For Shaping Effective HR Strategies And Retention Plans.
 
-# Tableau Projects ![icons8-tableau-software-48](https://github.com/swaapnaa/TABLEAU-PROJECTS/assets/149737403/5324eb1a-8bb8-405f-ae23-5988bcfdd675)
+# Tableau Projects ![https://github.com/RAKESH-RAKHUNDE2024/Analyzing-Employee-Trends/blob/main/tablaue.png)
 
+This Repository Contains Tableau Dashboard, Visualization, And Data Analysis Projects I Have Created.
 
-This repository contains Tableau dashboard, visualization, and data analysis projects I have created.
+## Analyzing Employee Trends:-
 
-## Analyzing Employee Trends
-
-[Analyzing Employee Trends.twbx](Analyzing Employee Trends Dashboard.png)
+[https://github.com/RAKESH-RAKHUNDE2024/Analyzing-Employee-Trends/blob/main/Analyzing%20Employee%20Trends.twbx](Analyzing Employee Trends Dashboard.png)
 
  ## Project Objectives:-
 
@@ -34,7 +33,7 @@ The Dashboard Consolidates Data From Multiple HR Systems Into A Single, Unified 
 - Analysis Of Compensation And Performance Metrics To Assess Alignment With Organizational Goals.
 - Key HR Performance Indicators (KPIs) To Monitor The Effectiveness Of HR Strategies And Initiatives.
 
-[Tableau Dashboard](https://github.com/swaapnaa/TABLEAU-PROJECTS/assets/149737403/f7622138-227d-488e-8fa0-576dba6c6372)
+[Tableau Dashboard](https://github.com/RAKESH-RAKHUNDE2024/Analyzing-Employee-Trends/blob/main/Tableau%20Dashboard.png)
 
 
 # Conclusion:-
@@ -43,7 +42,7 @@ The 'Analyzing Employee Trends' Project Provides A Comprehensive And Insightful 
 
 The Visualizations Allow HR Leaders And Decision-Makers To Track Key Metrics Such As Headcount, Engagement Levels, And Attrition Rates, Empowering Them To Make Informed, Data-Driven Decisions That Can Enhance Employee Retention, Improve Satisfaction, And Align HR Strategies With Business Objectives. Furthermore, The Dashboard Facilitates Ongoing Monitoring Of Key HR Performance Indicators, Enabling Proactive Management Of Workforce Dynamics.
 
-Overall, This Project Serves As A Strategic Tool For HR Professionals, Providing Actionable Insights To Optimize Employee Engagement, Enhance Organizational Effectiveness, And Drive Informed Decision-making Around HR Initiatives.
+Overall, This Project Serves As A Strategic Tool For HR Professionals, Providing Actionable Insights To Optimize Employee Engagement, Enhance Organizational Effectiveness, And Drive Informed Decision-Making Around HR Initiatives.
 
 
 
