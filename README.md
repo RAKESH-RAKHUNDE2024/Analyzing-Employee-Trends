@@ -20,7 +20,7 @@ The Primary Objective Of This Interactive Tableau Dashboard Is To Visualize And 
 - Identify And Track Demographic Trends, Including Age, Gender, And Education Level, To Better Understand The Workforce Composition.
 - Assess Employee Satisfaction And Engagement Metrics To Gauge Overall Morale And Productivity.
 - Analyze Factors Contributing To Employee Attrition And Turnover, Helping To Identify Potential Retention Risks.
-- Facilitate Data-Driven Decision-making In HR Initiatives By Providing Actionable Insights And Recommendations.
+- Facilitate Data-Driven Decision-Making In HR Initiatives By Providing Actionable Insights And Recommendations.
 
 The Dashboard Consolidates Data From Multiple HR Systems Into A Single, Unified View, Enabling Users To Slice And Analyze The Data By Various Dimensions Such As Departments, Demographics, Job Attributes, And More.
 
