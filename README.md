@@ -1,6 +1,6 @@
 # Project Summary: Analyzing Employee Trends
 
-This Project Leverages Tableau’s Interactive Dashboard Capabilities To Analyze And Visualize Human Resources (HR) Data, Providing Comprehensive Insights Into Employee Dynamics And Organizational Performance. The Primary Objective Of The Project Was To Support Data-driven Decision-making In HR By Offering In-depth Analysis Across Multiple Dimensions Of Employee Data, Such As Demographics, Job Roles, Satisfaction Levels, And Attrition Trends.
+This Project Leverages Tableau’s Interactive Dashboard Capabilities To Analyze And Visualize Human Resources (HR) Data, Providing Comprehensive Insights Into Employee Dynamics And Organizational Performance. The Primary Objective Of The Project Was To Support Data-Driven Decision-Making In HR By Offering In-depth Analysis Across Multiple Dimensions Of Employee Data, Such As Demographics, Job Roles, Satisfaction Levels, And Attrition Trends.
 
 The Dashboard Integrates Data From Various HR Systems, Enabling Users To Explore Employee Distribution By Department, Role, And Demographics Such As Age, Gender, And Education Level. It Highlights Key Trends In Employee Satisfaction And Engagement, Alongside Attrition And Turnover Patterns, Which Are Critical For Shaping Effective HR Strategies And Retention Plans.
 
