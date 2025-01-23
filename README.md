@@ -1,14 +1,12 @@
-# Project Summary: Analyzing Employee Trends
+# Project Summary: Analyzing Employee Trends (Tableau Projects) ![icons8-tableau-software-48](https://github.com/RAKESH-RAKHUNDE2024/Analyzing-Employee-Trends/blob/main/tablaue.png)
 
 This Project Leverages Tableau’s Interactive Dashboard Capabilities To Analyze And Visualize Human Resources (HR) Data, Providing Comprehensive Insights Into Employee Dynamics And Organizational Performance. The Primary Objective Of The Project Was To Support Data-Driven Decision-Making In HR By Offering In-Depth Analysis Across Multiple Dimensions Of Employee Data, Such As Demographics, Job Roles, Satisfaction Levels, And Attrition Trends.
 
 The Dashboard Integrates Data From Various HR Systems, Enabling Users To Explore Employee Distribution By Department, Role, And Demographics Such As Age, Gender, And Education Level. It Highlights Key Trends In Employee Satisfaction And Engagement, Alongside Attrition And Turnover Patterns, Which Are Critical For Shaping Effective HR Strategies And Retention Plans.
 
-# Tableau Projects ![icons8-tableau-software-48](https://github.com/RAKESH-RAKHUNDE2024/Analyzing-Employee-Trends/blob/main/tablaue.png)
+## Analyzing Employee Trends:-
 
 This Repository Contains Tableau Dashboard, Visualization, And Data Analysis Projects I Have Created.
-
-## Analyzing Employee Trends:-
 
 [Analyzing Employee Trends.twbx](Analyzing Employee Trends Dashboard.png)
 
