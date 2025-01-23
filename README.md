@@ -34,6 +34,8 @@ The Dashboard Consolidates Data From Multiple HR Systems Into A Single, Unified 
 - Analysis Of Compensation And Performance Metrics To Assess Alignment With Organizational Goals.
 - Key HR Performance Indicators (KPIs) To Monitor The Effectiveness Of HR Strategies And Initiatives.
 
+[Tableau Dashboard](https://github.com/swaapnaa/TABLEAU-PROJECTS/assets/149737403/f7622138-227d-488e-8fa0-576dba6c6372)
+
 
 # Conclusion:-
 
